@@ -1,0 +1,51 @@
+.navbar-brand{
+  color: white;
+}
+
+
+#navbarNavAltMarkup{
+  justify-content: flex-end;
+}
+
+.nav-link{
+  color: whitesmoke;
+}
+
+.nav-link:hover{
+  color: rgb(233, 112, 120);
+}
+
+#hero{
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.281), rgba(0, 0, 0, 0.491)), url(images/pexels-rdne-6003784.jpg) no-repeat center / cover;
+  color: white;
+}
+
+.hero-content{
+  height: 100vh;
+  width: 90%;
+  max-width: 1200px;
+  margin: 0, auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+.card-button{
+  background-color: rgb(228, 80, 90);
+  color: white;
+
+}
+
+.card-button:hover{
+  background-color: rgb(174, 89, 94);
+}
+
+#footer{
+  background-color: rgb(40, 35, 35);
+  color: white;
+}
